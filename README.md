@@ -23,7 +23,7 @@ Instructions:
 Deadline: 11.59 PM, 1 June, 2023
 Instructions:
 
-- Submit all the jupyter notebooks.
+- Submit all the solution jupyter notebooks.
 - Every file should be named according to the following convention:
 [Roll_Number]_[First Name]
 - Push your files into the Exercise 0X folder of Assignment 3.                                                                                                               Eg. Exercise 01 in Assignment 3 -> Exercise 01 and similarly other files.

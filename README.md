@@ -28,3 +28,12 @@ Instructions:
 [Roll_Number]_[First Name]
 - Push your files into the Exercise 0X folder of Assignment 3.                                                                                                               Eg. Exercise 01 in Assignment 3 -> Exercise 01 and similarly other files.
 
+
+## Final Assignment 
+Deadline: 11:59 PM, 22 July, 2023
+Instructions:
+
+- Submit all the solution jupyter notebook along with the analysis PPT.
+- Every file should be named according to the following convention:
+[Team_Number]_[Leader_Alloted]
+- Push your files into the Final Assignment folder.
